@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+  <diagram name="Página-1" id="QBrHmyLuBo6wd8Wk20ev">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="fim" vertex="1">
+          <mxGeometry height="60" width="100" x="350" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="70" as="sourcePoint" />
+            <mxPoint x="400" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-11" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.1;" value="olá seja bem vindo&lt;div&gt;&amp;nbsp; jogo de pergunta e resposta.&lt;/div&gt;&lt;div&gt;&amp;nbsp;Qual é o menor país do mundo?&amp;nbsp;&lt;div&gt;você tem 3 tentativas&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="300" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-18" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="K2kFwoxRWN6jm1Vrm2gu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-22" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="K2kFwoxRWN6jm1Vrm2gu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="resposta do usuário == resposta correta&amp;nbsp;" vertex="1">
+          <mxGeometry height="130" width="200" x="310" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-26" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K2kFwoxRWN6jm1Vrm2gu-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="usuario tem 3 tentava&amp;nbsp;&lt;div&gt;repetir e informa o numero&lt;div&gt;&amp;nbsp;de tentativa restante&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="300" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-15" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="parabéns você acertou!&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="130" x="570" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-17" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="K2kFwoxRWN6jm1Vrm2gu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-19" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="K2kFwoxRWN6jm1Vrm2gu-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="510" />
+              <mxPoint x="290" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-24" parent="1" style="text;whiteSpace=wrap;" value="F" vertex="1">
+          <mxGeometry height="30" width="20" x="414" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-27" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K2kFwoxRWN6jm1Vrm2gu-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-25" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="acabaram todas as tentativas&amp;nbsp;&lt;div&gt;fim do jogo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="310" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-29" edge="1" parent="1" source="K2kFwoxRWN6jm1Vrm2gu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K2kFwoxRWN6jm1Vrm2gu-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2kFwoxRWN6jm1Vrm2gu-28" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="usuário entra com a resposta&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="240" x="290" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
