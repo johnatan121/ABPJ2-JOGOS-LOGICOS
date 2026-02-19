@@ -8,7 +8,7 @@
 
 ## 🎯 Fluxograma
 
-
+![](Fluxograma.png)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
