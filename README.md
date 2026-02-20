@@ -1,9 +1,8 @@
 # ABPJ2-JOGOS-LOGICOS
 
 ## 📖 Descrição
-
-- jogos de pergunta e respos. 
-- a onde o usuario responde a pergunta gerada. 
+esse projeto tem a finalidade de cria um jogo de pergunta e resposta, 
+a onde o usuario responde a pergunta gerada. (projeto academico) 
 ---
 
 ## 🎯 Fluxograma
