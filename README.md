@@ -3,7 +3,7 @@
 ## 📖 Descrição
 
 - jogos de pergunta e respos. 
-- o usuario tem que responde a pergunta gerada. 
+- a onde o usuario responde a pergunta gerada. 
 ---
 
 ## 🎯 Fluxograma
